@@ -1,28 +1,18 @@
 {
    "books":[
       {
-         "title":"பணத்தோட்டம்",
+         "title":"டிசம்பர் 2018",
+         "date":"Dec, 2018",
          "bookid":"68f34e2f-872e-42c6-a373-a3d8d8b86b3c",
-         "image":"http://freetamilebooks.com/wp-content/uploads/2019/10/cover-2.jpg",
-         "epub":"http://freetamilebooks.com/download/%e0%ae%aa%e0%ae%a3%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%8b%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%ae%e0%af%8d-epub/"
+         "image":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/de2018.jpg",
+         "epub":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/marxist_monthly_journal_december2018.epub"
       },
       {
-         "title":"கலைஞரின் சரித்திரம்",
-         "bookid":"68ba1ab3-3306-43c3-8d41-da6a7fcf501d",
-         "image":"http://freetamilebooks.com/wp-content/uploads/2019/09/kalaingarin_charithiram_cover.jpg",
-         "epub":"http://freetamilebooks.com/download/%e0%ae%95%e0%ae%b2%e0%af%88%e0%ae%9e%e0%ae%b0%e0%ae%bf%e0%ae%a9%e0%af%8d-%e0%ae%9a%e0%ae%b0%e0%ae%bf%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%ae%e0%af%8d-epub-3/"
-      },
-      {
-         "title":"எண்ணித் துணிக கருமம்",
+         "title":"ஜீன் 2019",
+         "date":"Jun, 2019",
          "bookid":"a95a4787-a198-4517-8f3c-044a56596eb6",
-         "image":"http://freetamilebooks.com/wp-content/uploads/2019/09/cover.jpg",
-         "epub":"http://freetamilebooks.com/download/%e0%ae%8e%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%bf%e0%ae%a4%e0%af%8d-%e0%ae%a4%e0%af%81%e0%ae%a3%e0%ae%bf%e0%ae%95-%e0%ae%95%e0%ae%b0%e0%af%81%e0%ae%ae%e0%ae%ae%e0%af%8d-epub/"
-      },
-      {
-         "title":"பௌத்தமும் தமிழும்",
-         "bookid":"40581bf3-f562-40b7-b863-f4ed59c11f6e",
-         "image":"http://freetamilebooks.com/wp-content/uploads/2019/10/cover-1.jpg",
-         "epub":"http://freetamilebooks.com/download/%e0%ae%aa%e0%af%8c%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%ae%e0%af%81%e0%ae%ae%e0%af%8d-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%81%e0%ae%ae%e0%af%8d-epub/"
+         "image":"https://archive.org/download/marxist_monthly_journal_june2019/marxist_monthly_journal_june-upload/june.jpg",
+         "epub":"https://archive.org/download/marxist_monthly_journal_june2019/marxist_monthly_journal_june-upload/marxist_monthly_journal_june.epub"
       }
    ]
 }
