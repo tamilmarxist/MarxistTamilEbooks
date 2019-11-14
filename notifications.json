@@ -1,4 +1,5 @@
-[
+{
+  "notifications" : [
   {
     "title": "Title - 1",
     "message": "Test message"
@@ -16,4 +17,5 @@
     "message": "Test message"
   }
  ]
+}
   
