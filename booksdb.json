@@ -7,14 +7,21 @@
          "image":"https://archive.org/download/engels200/Wrapper_thumb.jpg",
          "epub":"https://archive.org/download/engels200/%E0%AE%AE%E0%AE%A9%E0%AE%BF%E0%AE%A4%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%20%E0%AE%AE%E0%AE%A9%E0%AE%BF%E0%AE%A4%E0%AE%A9%E0%AE%BE%E0%AE%95%20%E0%AE%AE%E0%AE%BE%E0%AE%B1%E0%AE%BF%E0%AE%AF%20%E0%AE%87%E0%AE%9F%E0%AF%88%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D%20%E0%AE%89%E0%AE%B4%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%A9%E0%AF%8D%20%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D%20.epub"
       },
-      {
-         "title":"டிசம்பர் 2018",
-         "date":"Dec, 2018",
-         "bookid":"68f34e2f-872e-42c6-a373-a3d8d8b86b3c",
-         "image":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/de2018.jpg",
-         "epub":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/marxist_monthly_journal_december2018.epub"
+         {
+         "title":"சாதி இட ஒதுக்கீடு",
+         "date":"Caste Identity",
+         "bookid":"a95a4787-a198-4517-8f3c-044a56596eb611",
+         "image":"https://ia601402.us.archive.org/20/items/m-arxist-b-ook-s-elected-articles/saathi-ida-othukkeedu-adaiyala-arasiyal-patri-10015662-550x550h.jpeg",
+         "epub":"https://archive.org/download/m-arxist-b-ook-s-elected-articles/mARXIST%20bOOK%20-%20sELECTED%20ARTICLES.epub"
       },
-      {
+         {
+         "title":"ஜூலை 2019",
+         "date":"July, 2019",
+         "bookid":"a95a4787-a198-4517-8f3c-044a56596eb612",
+         "image":"https://ia601402.us.archive.org/20/items/m-arxist-b-ook-s-elected-articles/July%20Marxist.png",
+         "epub":"https://archive.org/download/m-arxist-b-ook-s-elected-articles/Ebook%20July%202020.epub"
+      },
+    {
          "title":"ஜீன் 2019",
          "date":"Jun, 2019",
          "bookid":"a95a4787-a198-4517-8f3c-044a56596eb6",
@@ -27,6 +34,13 @@
          "bookid":"7b32564c-c525-419c-9c3b-9ee59b331f8f",
          "image":"https://archive.org/download/marxsit-monthly-may-20/Marxsit%20Monthly%20May%2720/cover.jpg",
          "epub":"https://archive.org/download/marxsit-monthly-may-20/Marxsit%20Monthly%20May%2720/Marxsit%20Monthly%20May%2720%20-%20Marxsit%20copy.epub"
+      },
+      {
+         "title":"டிசம்பர் 2018",
+         "date":"Dec, 2018",
+         "bookid":"68f34e2f-872e-42c6-a373-a3d8d8b86b3c",
+         "image":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/de2018.jpg",
+         "epub":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/marxist_monthly_journal_december2018.epub"
       }
    ]
 }
