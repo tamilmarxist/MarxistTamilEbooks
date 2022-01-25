@@ -1,77 +1,34 @@
 {
-   "books":[
-       {
-         "title":"செவ்வியல் நூல்கள்",
-         "date":"May, 2020",
-         "bookid":"66f34e2f-852e-43c6-a323-a3d8d7b86b3c1",
-         "image":"https://s3.ap-south-1.amazonaws.com/storage.commonfolks.in/docs/products/images_full/communisaththin-kotpaadugal_FrontImage_566.jpg",
-         "epub":"https://archive.org/download/20200828_20200828_1737/%E0%AE%95%E0%AE%AE%E0%AF%8D%E0%AE%AF%E0%AF%82%E0%AE%A9%E0%AE%BF%E0%AE%9A%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D%20%E0%AE%95%E0%AF%87%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AE%B3%E0%AF%8D.epub"
-      },
-      
-       {
-         "title":"கம்யூனிசத்தின் கோட்பாடுகள்",
-         "date":"Aug, 2020",
-         "bookid":"66f34e2f-852e-43c6-a323-a3d8d7b86b3c091",
-         "image":"https://archive.org/download/engels200/Wrapper_thumb.jpg",
-         "epub":"https://archive.org/download/engels200/%E0%AE%AE%E0%AE%A9%E0%AE%BF%E0%AE%A4%E0%AE%95%E0%AF%8D%20%E0%AE%95%E0%AF%81%E0%AE%B0%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%20%E0%AE%AE%E0%AE%A9%E0%AE%BF%E0%AE%A4%E0%AE%A9%E0%AE%BE%E0%AE%95%20%E0%AE%AE%E0%AE%BE%E0%AE%B1%E0%AE%BF%E0%AE%AF%20%E0%AE%87%E0%AE%9F%E0%AF%88%E0%AE%A8%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D%20%E0%AE%89%E0%AE%B4%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%A9%E0%AF%8D%20%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D%20.epub"
-      },
-      
-     {
-         "title":"கம்யூனிஸ்ட் அறிக்கை ",
-         "date":"Sep, 2020",
-         "bookid":"66f34e2f-852e-43c6-a323-a3d8d7b86b3c09212",
-         "image":"https://thamizhbooks.com/wp-content/uploads/2019/08/1.jpg",
-         "epub":"https://archive.org/download/communist-manefesto-tamil/Communist%20Manefesto%20%28Tamil%29.epub"
-      },
-         {
-         "title":"சாதி இட ஒதுக்கீடு",
-         "date":"Aug, 2020",
-         "bookid":"a95a4787-a198-4517-8f3c-044a56596eb611",
-         "image":"https://ia601402.us.archive.org/20/items/m-arxist-b-ook-s-elected-articles/saathi-ida-othukkeedu-adaiyala-arasiyal-patri-10015662-550x550h.jpeg",
-         "epub":"https://archive.org/download/m-arxist-b-ook-s-elected-articles/mARXIST%20bOOK%20-%20sELECTED%20ARTICLES.epub"
-      },
-      
-      {
-         "title":"செப்டம்பர் 2020",
-         "date":"Sep, 2020",
-         "bookid":"66f34e2f-852e-43c6-a323-a3d8d7b86b3c11q1",
-         "image":"https://archive.org/download/sep-2020/Sep%202020.png",
-         "epub":"https://archive.org/download/sep-2020/Marxist%20Magazine%20-%20Ebook%20Sep%202020.docx.epub"
-      },
-      {
-         "title":"ஆகஸ்ட் 2020",
-         "date":"Aug, 2020",
-         "bookid":"66f34e2f-852e-43c6-a323-a3d8d7b86b3c112",
-         "image":"https://archive.org/download/ebook-aug-2020-marxist/wrapper.png",
-         "epub":"https://archive.org/download/ebook-aug-2020-marxist/Ebook%20Aug%202020%20Marxist.epub"
-      },
-         {
-         "title":"ஜூலை 2019",
-         "date":"July, 2019",
-         "bookid":"a95a4787-a198-4517-8f3c-044a56596eb612",
-         "image":"https://ia601402.us.archive.org/20/items/m-arxist-b-ook-s-elected-articles/July%20Marxist.png",
-         "epub":"https://archive.org/download/m-arxist-b-ook-s-elected-articles/Ebook%20July%202020.epub"
-      },
-    {
-         "title":"ஜீன் 2019",
-         "date":"Jun, 2019",
-         "bookid":"a95a4787-a198-4517-8f3c-044a56596eb6",
-         "image":"https://archive.org/download/marxist_monthly_journal_june2019/marxist_monthly_journal_june-upload/june.jpg",
-         "epub":"https://archive.org/download/marxist_monthly_journal_june2019/marxist_monthly_journal_june-upload/marxist_monthly_journal_june.epub"
-      },
-      {
-         "title":"மே 2020",
-         "date":"May, 2019",
-         "bookid":"7b32564c-c525-419c-9c3b-9ee59b331f8f",
-         "image":"https://archive.org/download/marxsit-monthly-may-20/Marxsit%20Monthly%20May%2720/cover.jpg",
-         "epub":"https://archive.org/download/marxsit-monthly-may-20/Marxsit%20Monthly%20May%2720/Marxsit%20Monthly%20May%2720%20-%20Marxsit%20copy.epub"
-      },
-      {
-         "title":"டிசம்பர் 2018",
-         "date":"Dec, 2018",
-         "bookid":"68f34e2f-872e-42c6-a373-a3d8d8b86b3c",
-         "image":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/de2018.jpg",
-         "epub":"https://archive.org/download/marxist_monthly_journal_december2018/marxist_monthly_journal_december2018-upload/marxist_monthly_journal_december2018.epub"
-      }
-   ]
+
+    "books":[
+        {
+            "title":"கம்யூனிஸ்ட் அறிக்கை",
+            "date":"Jan, 2022",
+            "bookid":"2DC2361F-D352-4843-B9F1-7800F30E1F23",
+            "image":"",
+            "epub":"https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/communist_manifesto.epub"
+        },
+        {
+            "title":"அமைப்பு சட்டம்",
+            "date":"Jan, 2022",
+            "bookid":"D0AF97F8-3307-4DE1-AB82-7D277AD826E6",
+            "image":"",
+            "epub":"https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/cpim_onstitution_tamil.epub"
+        },
+        {
+            "title":"கட்சித் திட்டம்",
+            "date":"Jan, 2022",
+            "bookid":"BA672321-4074-47F9-87E5-14F77E21641E",
+            "image":"",
+            "epub":"https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/cpim_party_manifesto.epub"
+        },
+        {
+            "title":"கம்யூனிசத்தின் கோட்பாடுகள்",
+            "date":"Jan, 2022",
+            "bookid":"F31469F5-CBD5-44A4-A91A-3301B8A94A9B",
+            "image":"",
+            "epub":"https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/principles_of_communism.epub"
+        }
+    ]
+
 }
