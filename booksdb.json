@@ -2,6 +2,13 @@
 
     "books":[
         {
+            "title":"ஜூலை 2026",
+            "date":"Jul, 2026",
+            "bookid":"2DC2361F-D352-4843-B9F1-7800F30E1F24",
+            "image":"https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/images/july_2026.png",
+            "epub":"https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/july_2026.epub"
+        },
+        {
             "title":"கம்யூனிஸ்ட் அறிக்கை",
             "date":"Jan, 2022",
             "bookid":"2DC2361F-D352-4843-B9F1-7800F30E1F23",
