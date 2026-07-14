@@ -54,6 +54,9 @@ def _newest_bookid(path: str) -> str | None:
 
 
 def _access_token(sa_info: dict) -> str:
+    import google.auth.transport.requests
+    from google.oauth2 import service_account
+
     creds = service_account.Credentials.from_service_account_info(
         sa_info, scopes=SCOPES
     )
@@ -131,6 +134,8 @@ def main() -> int:
         print("DRY_RUN=1 — message that would be sent:")
         print(json.dumps(message, ensure_ascii=False, indent=2))
         return 0
+
+    import requests
 
     token = _access_token(sa_info)
     url = f"https://fcm.googleapis.com/v1/projects/{project_id}/messages:send"
