@@ -1,0 +1,45 @@
+name: Notify new book
+
+# Sends an FCM topic notification when a new monthly issue is published.
+# publisher.py (in the EpubMaker desktop app) commits booksdb.json to this repo
+# via the GitHub Contents API; that push triggers this workflow, which reads the
+# newest book and pushes a notification to the `new_book_added` FCM topic.
+#
+# Deploy: place this file at .github/workflows/notify.yml in
+# tamilmarxist/MarxistTamilEbooks, alongside .github/scripts/send_fcm.py.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - booksdb.json
+  workflow_dispatch:      # allows a manual test run from the Actions tab
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 2   # need the previous commit for the duplicate-guard
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install google-auth requests
+
+      - name: Save previous booksdb.json
+        # Best-effort: on the very first commit HEAD~1 won't exist.
+        run: git show HEAD~1:booksdb.json > prev_booksdb.json 2>/dev/null || echo '{}' > prev_booksdb.json
+
+      - name: Send FCM notification
+        env:
+          FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+          BOOKSDB: booksdb.json
+          PREV_BOOKSDB: prev_booksdb.json
+          TOPIC: new_book_added
+        run: python .github/scripts/send_fcm.py
