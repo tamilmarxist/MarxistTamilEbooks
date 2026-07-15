@@ -1,6 +1,13 @@
 {
     "books": [
         {
+            "title": "ஜூன் 2026",
+            "date": "Jun, 2026",
+            "bookid": "503AA5A1-5A5C-45AC-817F-173168FCF53F",
+            "image": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/images/june_2026.webp",
+            "epub": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/june_2026.epub"
+        },
+        {
             "title": "ஏப்ரல் 2026",
             "date": "Apr, 2026",
             "bookid": "76E55D4B-7A74-4D42-9166-711318EF7C2A",
