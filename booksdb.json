@@ -1,6 +1,13 @@
 {
     "books": [
         {
+            "title": "ஜூன் 2025",
+            "date": "Jun, 2025",
+            "bookid": "E505ADAC-D5F5-4438-86D4-E8668EAF2A20",
+            "image": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/images/june_2025.webp",
+            "epub": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/june_2025.epub"
+        },
+        {
             "title": "ஏப்ரல் 2005",
             "date": "Apr, 2005",
             "bookid": "A07FFECE-F9F2-4F66-97AC-A490DD3524D5",
