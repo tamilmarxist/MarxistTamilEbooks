@@ -1,6 +1,13 @@
 {
     "books": [
         {
+            "title": "ஆகஸ்ட் 2026",
+            "date": "Aug, 2026",
+            "bookid": "4960B854-D2EC-4313-8E8F-12375EA967A1",
+            "image": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/images/august_2026.webp",
+            "epub": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/august_2026.epub"
+        },
+        {
             "title": "கம்யூனிஸ்ட் அறிக்கை",
             "date": "Jan, 2022",
             "bookid": "2DC2361F-D352-4843-B9F1-7800F30E1F23",
