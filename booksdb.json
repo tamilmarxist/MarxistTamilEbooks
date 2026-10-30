@@ -1,6 +1,13 @@
 {
     "books": [
         {
+            "title": "அக்டோபர் 2026",
+            "date": "Oct, 2026",
+            "bookid": "945A27C5-9939-45DD-9091-51FFBB2653C5",
+            "image": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/images/october_2026.webp",
+            "epub": "https://github.com/tamilmarxist/MarxistTamilEbooks/raw/master/books/october_2026.epub"
+        },
+        {
             "title": "ஆகஸ்ட் 2026",
             "date": "Aug, 2026",
             "bookid": "4960B854-D2EC-4313-8E8F-12375EA967A1",
